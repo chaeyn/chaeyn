@@ -1,4 +1,8 @@
-# 👋 Hi! I'm Chae Geunyoung 
+# 👋 Hi! I am Chae Geunyoung 
+- I attend Daegu Gosan Middle School
+- I am hard working junior developer
+- I aim to be proud of myself
+
 
 <!--
 **chaeyn/chaeyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
