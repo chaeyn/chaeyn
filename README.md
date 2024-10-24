@@ -1,4 +1,4 @@
-# 👋 Hi! I'm CHAE GEUNYOUNG 
+# 👋 Hi! I'm Chae Geunyoung 
 
 <!--
 **chaeyn/chaeyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
