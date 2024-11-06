@@ -1,7 +1,6 @@
-# 👋 Hi! I am Chae Geunyoung 
-- I attend Daegu Gosan Middle School
-- I am hard working junior developer
-- I aim to be proud of myself
+# 👋 안녕하세요, 채근영입니다.
+- 대구소프트웨어마이스터고 10기에 재학 예정입니다.(2025~2027)
+- 열심히 노력하는 주니어 개발자가 되려고 합니다.
 
 
 <!--
