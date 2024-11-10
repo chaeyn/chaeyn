@@ -1,6 +1,6 @@
 # 👋Hello World!
 ## I'm Geunyoung Chae, Junior developer.
-- I'm learning develop at Daegu Software Meister High School. (2025-2027)
+- Learning develop at Daegu Software Meister High School. (2025-2027)
 - My goal is to be a fullstack developer.
 
 <div style="text-align: left;">
