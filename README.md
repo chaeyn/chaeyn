@@ -1,5 +1,7 @@
-# 👋안녕하세요, 채근영입니다.
-- 대구소프트웨어마이스터고등학교 10기에 재학 예정입니다. (2025~2027)
+# 👋Hello World!
+## I'm Geunyoung Chae, Junior developer.
+- I'm learning develop at Daegu Software Meister High School. (2025-2027)
+- My goal is to be a fullstack developer.
 
 <div style="text-align: left;">
     <h2> 📚Studing </h2> <br> 
