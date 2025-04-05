@@ -4,4 +4,6 @@
 - 웹 개발과 인공지능을 활용한 개발에 관심이 있습니다.
 </hr>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chaeyn&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=chaeyn)
