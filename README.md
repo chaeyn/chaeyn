@@ -30,16 +30,16 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=chaeyn&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyn&layout=compact&theme=onedark&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=chaeyn&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyn&layout=compact&theme=onedark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaeyn&theme=onedark&hide_border=true" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=chaeyn&theme=onedark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaeyn&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chaeyn&theme=onedark&no-frame=true&no-bg=true&row=1&column=4" />
 </div>
 
 ---
