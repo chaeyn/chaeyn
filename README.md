@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 **Tech Stack**
+## 🧑‍💻 **My Stack**
 
 <div align="center">
   <table>
