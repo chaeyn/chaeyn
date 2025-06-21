@@ -1,7 +1,7 @@
 # 🚀 Welcome to chaeyn's GitHub
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,19,20,21,22,25,27,28&height=220&section=header&text=chaeyn&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=220&section=header&text=chaeyn&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
 
 ---
