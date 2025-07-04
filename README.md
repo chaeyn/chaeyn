@@ -35,9 +35,6 @@
 <div align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=chaeyn&theme=onedark&hide_border=true" />
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaeyn&theme=onedark&no-frame=true&no-bg=true&row=1&column=4" />
-</div>
 
 ---
 
